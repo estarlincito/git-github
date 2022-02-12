@@ -14,5 +14,5 @@ $ git push              ://Update remote refs along with associated objects
 $git log --oneline      ://Show commit logs
 
 //En caso de error con gitHub
-git branch -M master
-git push -u origin master
+$ git branch -M master
+$ git push -u origin master
