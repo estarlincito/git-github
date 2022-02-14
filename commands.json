@@ -1,14 +1,48 @@
-{
-    "$ git init": "Create an empty Git repository or reinitialize an existing one",
-    "$ git status -s": "Show the working tree status",
-    "$ git add .": "Add file contents to the index",
-    "$ git commit -m '0.001' ": "Record changes to the repository",
-    "$ git push": "Update remote refs along with associated objects",
-    "$ git log --oneline": "Show commit logs",
-    "$ git pull": "Fetch from and integrate with another repository or a local branch(gitHub)",
-    "$ git config --global user.name": "estarlincito",
-    "$ git config --global user.email": "estarlinro@duck.com",
-    "$ git config --global init.defaultBranch main": "master a main de forma global",
-    "$ git branch -m master main": "master a main Para un único proyecto"
-}
+[
+    {
+        "command": "$ git init",
+        "value": "Create an empty Git repository or reinitialize an existing one"
+    },
+    {
+        "command": "$ git status -s",
+        "value": "Show the working tree status"
+    },  
+    {
+        "command": "$ git add .",
+        "value": "Add file contents to the index"
+    },
+    {
+        "command": "$ git commit -m '0.001'",
+        "value": "Record changes to the repository"
+    },
+    {
+        "command": "$ git push",
+        "value": "Update remote refs along with associated objects"
+    },
+    {
+        "command": "$ git log --oneline",
+        "value": "Show commit logs"
+    },
+    {
+        "command": "$ git pull",
+        "value": "Fetch from and integrate with another repository or a local branch(gitHub)"
+    },
+    {
+        "command": "$ git config --global user.name 'estarlincito'",
+        "value": ""
+    },
+    {
+        "command": "$ git config --global user.email 'estarlinro@duck.com'",
+        "value": ""
+    },
+    {
+        "command": "$ git config --global init.defaultBranch main",
+        "value": "master a main de forma global"
+    },
+    {
+        "command": "$ git branch -m master main",
+        "value": "master a main Para un único proyecto"
+    }
+
+]
 

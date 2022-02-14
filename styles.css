@@ -9,3 +9,30 @@ body{
     text-align: center;
     margin: 20px;
 }
+
+/* data */
+#dataid{
+    margin: 20px;
+    text-align: left;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+
+#dataid p{
+    margin: 5px;
+}
+
+#dataid p b{
+    color: red;
+}
+
+#dataid p::after{
+    content: '';
+    display: block;
+    background-color:rgba(255, 255, 255, 0.445);
+    height: 1px;
+    width: 100%;
+    margin-top: 1px;
+}
