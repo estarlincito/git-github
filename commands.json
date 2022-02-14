@@ -1,0 +1,14 @@
+{
+    "$ git init": "Create an empty Git repository or reinitialize an existing one",
+    "$ git status -s": "Show the working tree status",
+    "$ git add .": "Add file contents to the index",
+    "$ git commit -m '0.001' ": "Record changes to the repository",
+    "$ git push": "Update remote refs along with associated objects",
+    "$ git log --oneline": "Show commit logs",
+    "$ git pull": "Fetch from and integrate with another repository or a local branch(gitHub)",
+    "$ git config --global user.name": "estarlincito",
+    "$ git config --global user.email": "estarlinro@duck.com",
+    "$ git config --global init.defaultBranch main": "master a main de forma global",
+    "$ git branch -m master main": "master a main Para un único proyecto"
+}
+
