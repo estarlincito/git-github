@@ -37,11 +37,19 @@
     },
     {
         "command": "$ git config --global init.defaultBranch main",
-        "value": "master a main de forma global"
+        "value": "Master a main de forma global"
     },
     {
         "command": "$ git branch -m master main",
-        "value": "master a main Para un único proyecto"
+        "value": "Master a main Para un único proyecto"
+    },
+    {
+        "command": "git reflog",
+        "value": "Muestra todos los cambios incluso si borramos los commit"
+    },
+    {
+        "command": "git reset --hard 17d793b",
+        "value": "Viajamos al commit en específico 17d793b y podemos restaurar los archivos"
     }
 
 ]
