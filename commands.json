@@ -44,12 +44,16 @@
         "value": "Master a main Para un único proyecto"
     },
     {
-        "command": "git reflog",
+        "command": "$ git reflog",
         "value": "Muestra todos los cambios incluso si borramos los commit"
     },
     {
-        "command": "git reset --hard 17d793b",
+        "command": "$ git reset --hard 17d793b",
         "value": "Viajamos al commit en específico 17d793b y podemos restaurar los archivos"
+    },
+    {
+        "command": "$ git pull origin YOUR_BRANCH_NAME",
+        "value": "Solución: Restaurar a la última versión remota"
     }
 
 ]
