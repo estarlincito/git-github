@@ -88,7 +88,7 @@
         "value": "Mostrar información del tag"
     },
     {
-        "command": "$ git push --tags'",
+        "command": "$ git push --tags",
         "value": "Push github"
     }
 
