@@ -78,6 +78,18 @@
     {
         "command": "git merge nombreRama",
         "value": "Podemos unir una rama con la nueva"
+    },
+    {
+        "command": "$ git tag version -m '0.0.1'",
+        "value": "Crear un tags"
+    },
+    {
+        "command": "$ git show nombreTag",
+        "value": "Mostrar información del tag"
+    },
+    {
+        "command": "$ git push --tags'",
+        "value": "Push github"
     }
 
 ]
