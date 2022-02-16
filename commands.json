@@ -54,6 +54,30 @@
     {
         "command": "$ git pull origin YOUR_BRANCH_NAME",
         "value": "Solución: Restaurar a la última versión remota"
+    },
+    {
+        "command": "$ git branch nombreRama",
+        "value": "Crea una nueva rama"
+    },
+    {
+        "command": "$ git branch",
+        "value": "Nos muestra en que rama estamos"
+    },
+    {
+        "command": "$ git checkout nombreRama",
+        "value": "Nos movemos a la nueva rama"
+    },
+    {
+        "command": "$ git log --oneline --graph",
+        "value": "Nos muestra visualmente las ramas"
+    },
+    {
+        "command": "git branch -d nombreRama",
+        "value": "Eliminar una rama"
+    },
+    {
+        "command": "git merge nombreRama",
+        "value": "Podemos unir una rama con la nueva"
     }
 
 ]
