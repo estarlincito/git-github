@@ -32,7 +32,7 @@
         "value": ""
     },
     {
-        "command": "$ git config --global user.email 'estarlinro@duck.com'",
+        "command": "$ git config --global user.email 'mail@duck.com'",
         "value": ""
     },
     {
