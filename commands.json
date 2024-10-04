@@ -1,96 +1,94 @@
 [
-    {
-        "command": "$ git init",
-        "value": "Create an empty Git repository or reinitialize an existing one"
-    },
-    {
-        "command": "$ git status -s",
-        "value": "Show the working tree status"
-    },  
-    {
-        "command": "$ git add .",
-        "value": "Add file contents to the index"
-    },
-    {
-        "command": "$ git commit -m '0.001'",
-        "value": "Record changes to the repository"
-    },
-    {
-        "command": "$ git push",
-        "value": "Update remote refs along with associated objects"
-    },
-    {
-        "command": "$ git log --oneline",
-        "value": "Show commit logs"
-    },
-    {
-        "command": "$ git pull",
-        "value": "Fetch from and integrate with another repository or a local branch(gitHub)"
-    },
-    {
-        "command": "$ git config --global user.name 'estarlincito'",
-        "value": ""
-    },
-    {
-        "command": "$ git config --global user.email 'mail@duck.com'",
-        "value": ""
-    },
-    {
-        "command": "$ git config --global init.defaultBranch main",
-        "value": "Master a main de forma global"
-    },
-    {
-        "command": "$ git branch -m master main",
-        "value": "Master a main Para un único proyecto"
-    },
-    {
-        "command": "$ git reflog",
-        "value": "Muestra todos los cambios incluso si borramos los commit"
-    },
-    {
-        "command": "$ git reset --hard 17d793b",
-        "value": "Viajamos al commit en específico 17d793b y podemos restaurar los archivos"
-    },
-    {
-        "command": "$ git pull origin YOUR_BRANCH_NAME",
-        "value": "Solución: Restaurar a la última versión remota"
-    },
-    {
-        "command": "$ git branch nombreRama",
-        "value": "Crea una nueva rama"
-    },
-    {
-        "command": "$ git branch",
-        "value": "Nos muestra en que rama estamos"
-    },
-    {
-        "command": "$ git checkout nombreRama",
-        "value": "Nos movemos a la nueva rama"
-    },
-    {
-        "command": "$ git log --oneline --graph",
-        "value": "Nos muestra visualmente las ramas"
-    },
-    {
-        "command": "git branch -d nombreRama",
-        "value": "Eliminar una rama"
-    },
-    {
-        "command": "git merge nombreRama",
-        "value": "Podemos unir una rama con la nueva"
-    },
-    {
-        "command": "$ git tag version -m '0.0.1'",
-        "value": "Crear un tags"
-    },
-    {
-        "command": "$ git show nombreTag",
-        "value": "Mostrar información del tag"
-    },
-    {
-        "command": "$ git push --tags",
-        "value": "Push github"
-    }
-
+  {
+    "command": "$ git init",
+    "value": "Create an empty Git repository or reinitialize an existing one"
+  },
+  {
+    "command": "$ git status -s",
+    "value": "Show the working tree status"
+  },
+  {
+    "command": "$ git add .",
+    "value": "Add file contents to the index"
+  },
+  {
+    "command": "$ git commit -m '0.001'",
+    "value": "Record changes to the repository"
+  },
+  {
+    "command": "$ git push",
+    "value": "Update remote refs along with associated objects"
+  },
+  {
+    "command": "$ git log --oneline",
+    "value": "Show commit logs"
+  },
+  {
+    "command": "$ git pull",
+    "value": "Fetch from and integrate with another repository or a local branch(gitHub)"
+  },
+  {
+    "command": "$ git config --global user.name 'estarlincito'",
+    "value": ""
+  },
+  {
+    "command": "$ git config --global user.email 'mail@duck.com'",
+    "value": ""
+  },
+  {
+    "command": "$ git config --global init.defaultBranch main",
+    "value": "Master a main de forma global"
+  },
+  {
+    "command": "$ git branch -m master main",
+    "value": "Master a main Para un único proyecto"
+  },
+  {
+    "command": "$ git reflog",
+    "value": "Muestra todos los cambios incluso si borramos los commit"
+  },
+  {
+    "command": "$ git reset --hard 17d793b",
+    "value": "Viajamos al commit en específico 17d793b y podemos restaurar los archivos"
+  },
+  {
+    "command": "$ git pull origin YOUR_BRANCH_NAME",
+    "value": "Solución: Restaurar a la última versión remota"
+  },
+  {
+    "command": "$ git branch nombreRama",
+    "value": "Crea una nueva rama"
+  },
+  {
+    "command": "$ git branch",
+    "value": "Nos muestra en que rama estamos"
+  },
+  {
+    "command": "$ git checkout nombreRama",
+    "value": "Nos movemos a la nueva rama"
+  },
+  {
+    "command": "$ git log --oneline --graph",
+    "value": "Nos muestra visualmente las ramas"
+  },
+  {
+    "command": "git branch -d nombreRama",
+    "value": "Eliminar una rama"
+  },
+  {
+    "command": "git merge nombreRama",
+    "value": "Podemos unir una rama con la nueva"
+  },
+  {
+    "command": "$ git tag version -m '0.0.1'",
+    "value": "Crear un tags"
+  },
+  {
+    "command": "$ git show nombreTag",
+    "value": "Mostrar información del tag"
+  },
+  {
+    "command": "$ git push --tags",
+    "value": "Push github"
+  }
 ]
-
